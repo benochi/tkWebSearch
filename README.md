@@ -3,3 +3,5 @@ This application is being built to provide a Python GUI for searching websites f
 
 ### Build the executable
 python setup.py py2exe
+
+#### This application is being built using ChatGPT as a test of ChatGPT
